@@ -1,0 +1,1 @@
+(Dataset:CVC-300; Model:CoNet) meanDic:0.872;meanIoU:0.798;wFm:0.846;Sm:0.923;meanEm:0.948;MAE:0.012;maxEm:0.962;maxDice:0.886;maxIoU:0.814;meanSen:0.953;maxSen:1.000;meanSpe:0.986;maxSpe:0.994.

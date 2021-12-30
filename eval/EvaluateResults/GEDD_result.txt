@@ -1,0 +1,1 @@
+(Dataset:GEDD; Model:CoNet) meanDic:0.788;meanIoU:0.656;wFm:0.735;Sm:0.843;meanEm:0.969;MAE:0.011;maxEm:0.972;maxDice:0.791;maxIoU:0.659;meanSen:0.835;maxSen:1.000;meanSpe:0.989;maxSpe:0.993.

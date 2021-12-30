@@ -1,0 +1,1 @@
+(Dataset:CVC-ColonDB; Model:CoNet) meanDic:0.687;meanIoU:0.618;wFm:0.671;Sm:0.804;meanEm:0.811;MAE:0.042;maxEm:0.857;maxDice:0.691;maxIoU:0.622;meanSen:0.717;maxSen:1.000;meanSpe:0.874;maxSpe:0.918.
